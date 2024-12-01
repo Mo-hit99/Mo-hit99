@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on e-commerce project. <br>👯 I’m looking to collaborate on Technologies like MERN STACK.<br>🤝 I’m looking for help with various projects.<br>🌱 I’m currently learning Next.js15 and devops.<br>💬 Ask me about anything.<br>⚡ Fun fact every technology is fascinating for me.
+🔭 I’m currently working on e-commerce project. <br>👯 I’m looking to collaborate on Technologies like MERN STACK.<br>🤝 I’m looking for help with various projects.<br>🌱 I’m currently learning Next.js/Remix and devOps.<br>💬 Ask me about anything.<br>⚡ Fun fact every technology is fascinating for me.
 
 
 # 💻 Tech Stack:
