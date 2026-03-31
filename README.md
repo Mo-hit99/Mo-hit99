@@ -1,10 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on scalable **E-Commerce Applications**  
-👯 I’m looking to collaborate on **MERN / PERN / Full Stack Projects**  
-🤝 I’m open to contributing in **Backend Systems & Open Source**  
-🌱 I’m currently learning **Python, DevOps & AI Technologies**  
-💬 Ask me about **Full Stack Development, REST APIs, JavaScript & System Design**  
-⚡ Fun fact: Everything starts as a bug… until it becomes a feature 😄  
+🔭 I’m currently building **scalable E-Commerce & Full Stack Applications**  
+👯 I’m looking to collaborate on **MERN / PERN / Backend Projects**  
+🤝 Open to working on **API Development, DevOps & System Design**  
+🌱 Currently learning **Python, DevOps, FastAPI & Machine Learning**  
+💬 Ask me about **Full Stack Development, REST APIs, Deployment & Databases**  
+⚡ Fun fact: From writing code to deploying systems — I love owning the full journey ⚙️ 
 
 
 ## 🌐 Socials:
@@ -31,7 +31,7 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/react_router-CA4245?style=plastic&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/react_hook_form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/react%20hook%20form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plastic&logo=SASS&logoColor=white)
@@ -41,51 +41,63 @@
 ### ⚙️ Backend & APIs
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io)
 
 ---
 
-### 🛢️ Databases
+### 🧠 Machine Learning & Python Ecosystem
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
+
+---
+
+### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white)
 
 ---
 
-### ☁️ DevOps & Tools
+### ⚡ DevOps & Deployment
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github_actions-%232671E5.svg?style=plastic&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=plastic&logo=linux&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-%23000000.svg?style=plastic)
 
 ---
 
-### 🚀 Deployment
+### ☁️ Hosting & Tools
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/render-%46E3B7.svg?style=plastic&logo=render&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 
 ---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mo-hit99&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mo-hit99&theme=jolly&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-hit99&theme=jolly&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-hit99&theme=jolly&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mo-hit99&theme=shadow_blue&no-frame=true)
+![](https://github-profile-trophy.vercel.app/?username=mo-hit99&theme=shadow_blue&no-frame=true&no-bg=false&margin-w=4)
 
 ---
 
-### ✍️ Dev Quote
+### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-### 🔝 Top Contributions
+### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mo-hit99&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
